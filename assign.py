@@ -39,7 +39,7 @@ ax.legend()
 
 ax.set_xlabel('Alcohol')
 ax.set_ylabel('Malic Acid')
-ax.set_zlabel('proline')
+ax.set_zlabel('ash')
 plt.title('Wine Recognition')
 
 #ax.plot3D(df0['alcohol'], df0['malic_acid'], df0['ash'],'lightgreen')
